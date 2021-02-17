@@ -1,8 +1,0 @@
-# dotenv environment variables file
-.env
-.env.test
-.djangovenv
-.djangovenv.test
-djangovenv*
-venv/
-djangovenv/
