@@ -3,3 +3,6 @@
 .env.test
 .djangovenv
 .djangovenv.test
+djangovenv*
+venv/
+djangovenv/
